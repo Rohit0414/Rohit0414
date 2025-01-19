@@ -1,9 +1,9 @@
 👋 Hi, I'm @Rohit0414
-🚀 Passionate Full-Stack Developer | Always exploring the world of technology!
-🔍 Currently Learning: Python and enhancing my backend skills
-💻 Tech Stack: React, Next.js, Node.js, Express, MongoDB
-🌱 Seeking Collaboration: Open to web development projects—let's build something amazing together!
+🚀 Full-Stack Developer | Passionate about technology and constantly exploring new horizons in the dev world.
+🔍 Currently Learning: Diving deeper into Python while sharpening my backend skills.
+💻 Tech Stack: React, Next.js, Node.js, Express, MongoDB — I build scalable and efficient applications.
+🌱 Seeking Collaboration: Always open to exciting web development projects. Let's create something innovative and impactful together!
 📬 Reach Me At: dhimanrohit070@gmail.com
 🎯 Pronouns: He/Him
-⚡ Fun Fact: I'm a huge fan of building responsive web apps that create seamless user experiences across devices.
-💡 My Mission: Combining creativity and code to bring ideas to life and make the web a better place!
+⚡ Fun Fact: Avid enthusiast for building responsive web apps that deliver seamless user experiences across devices.
+💡 My Mission: Merging creativity with code to turn ideas into reality and contribute to making the web more intuitive, accessible, and beautiful.
