@@ -1,9 +1,10 @@
-👋 Hi, I'm @Rohit0414
-🚀 Full-Stack Developer | Passionate about creating innovative digital solutions.
-🔍 Currently Learning: Python & backend development.
+👋 Hi, I’m @Rohit0414
+🚀 Full-Stack Developer | Crafting innovative, user-first digital experiences.
+🔍 Currently Learning: Python & expanding backend skills.
 💻 Tech Stack: React, Next.js, Node.js, Express, MongoDB
-🌱 Open to Collaboration: Let’s build something amazing together!
+🌱 Open to Collaboration: Let's build something extraordinary together!
 📬 Contact: dhimanrohit070@gmail.com
-🎯 Pronouns: He/Him
-⚡ Fun Fact: Obsessed with building responsive web apps that offer seamless user experiences.
-💡 Mission: Merging creativity with technology to create impactful solutions and improve user
+⚡ Fun Fact: Passionate about creating responsive, seamless web apps.
+💡 Mission: Merging creativity with code to build impactful, user-friendly solutions.
+
+
